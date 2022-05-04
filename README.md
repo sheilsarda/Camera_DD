@@ -8,9 +8,10 @@
 
 | Camera Name | Mirrorless | Comments | Rental | Price |
 |--|--|--|--|--|
-| a6300 (2016) | :heavy_check_mark:| 11fps; 24.2MP; 4K Video  | $54 / wk | $680 |
-| a6100 (2019) | :heavy_check_mark:| 11fps; 24.2MP; 4K Video; touchscreen  | $60 / wk | $850 |
-| a7S   |   |   | $114 / wk |--|
+| a7C (2020)   | :heavy_check_mark:| 10fps; 24.2MP; 4K Video; touchscreen   | $114 / wk | $1,798|
+| a6100 (2019) | :heavy_check_mark:| 11fps; 24.2MP; 4K Video; touchscreen   | $60 / wk  | $850  |
+| a6300 (2016) | :heavy_check_mark:| 11fps; 24.2MP; 4K Video                | $54 / wk  | $680  |
+
 
 ### Canon
 
