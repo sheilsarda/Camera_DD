@@ -16,12 +16,12 @@
 
 | Camera Name | Mirrorless | Pros | Cons | Price |
 |--|--|--|--|--|
-| SL3 |  |  |   |   | $40 / wk  |
-| EOS M50 MII  | :heavy_check_mark:  |   | $46 / wk  |
-| 77D |  |  |   |    | $49 / wk |
-| T7i |  |  |   |    | $49 / wk |
-| EOS M6 MII  | :heavy_check_mark:  |   | $60 / wk  |
-| 5D MII  |  |  | $136 / wk  |
+| SL3 |  |  |  | $40 / wk  |
+| EOS M50 MII | :heavy_check_mark: |  |  | $46 / wk  |
+| 77D |  |  |   | $49 / wk |
+| T7i |  |  |   | $49 / wk |
+| EOS M6 MII  | :heavy_check_mark:  |   |   | $60 / wk  |
+| 5D MII  |  |  |  | $136 / wk  |
 
 ### Nikon
 
