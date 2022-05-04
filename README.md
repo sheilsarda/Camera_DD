@@ -15,7 +15,7 @@
 ### Canon
 
 | Camera Name | Mirrorless | Comments | Price |
-|--|--|--|--|--|
+|--|--|--|--|
 | SL3           |                   | | $40 / wk    |
 | EOS M50 MII   | :heavy_check_mark:| | $46 / wk    |
 | 77D           |                   | | $49 / wk    |
