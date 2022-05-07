@@ -46,8 +46,18 @@ Source: [Lensrentals.com](https://www.lensrentals.com/catalog_search?page=1&sort
 
 ## Lenses
 
-### []mm
+### 11-22mm
 
-### []mm
+ - 11mm is quite wide
+ - 22mm is good for portraits, headshots, vlogging
+ - [Cannon](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnB2Wnd0Y1QyYk5SX19veE9Qem9qc3pLOUhTQXxBQ3Jtc0trb2J4VHpsOTd3Mkhnd0FuODV0Y1l6X01GMnc2eU9kdE9yMkFkMnVFempnQ2dDblN3UGxTZ3lXT1hXblhmejJ4bW5jQXkxRG0xUVZBUG1RT2lDUDkwOGtoZGw5cnZtcEhMVTNLMThUeFd1Nk5KQURkQQ&q=https%3A%2F%2Fgeni.us%2FFAaOYA&v=qnyhl_8KQl0)
 
-### []mm
+### 18-55mm
+
+ - In combination with 11-22
+ - Very sharp lens, good for being out and about, vlogging, etc.
+
+### 55-200mm
+
+ - Zoom lens
+ - [Cannon](https://www.amazon.com/Canon-55-200mm-4-5-6-3-Stabilization-Renewed/dp/B07JCH842D/ref=sr_1_3?tag=marxfishing-20&dchild=1&keywords=canon%20ef-m%2055-200&qid=1619064078&sr=8-3&geniuslink=true)
